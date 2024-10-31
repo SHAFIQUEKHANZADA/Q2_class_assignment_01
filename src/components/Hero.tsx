@@ -16,10 +16,10 @@ const Hero = () => {
         <div className="sm:flex items-center sm:h-[656px] sm:w-full sm:pt-0 pt-40">
           {/* Text Section */}
           <div className="flex-1 sm:text-start text-center sm:pt-20">
-            <h1 className="text-white text-[9vw] sm:text-[50px] lg:text-[65px] font-bold sm:leading-[72px]">
+            <h1 className="text-white text-[12vw] sm:text-[50px] lg:text-[65px] font-bold sm:leading-[72px]">
               Get More Done with Whitepace
             </h1>
-            <p className="text-white lg:text-[18px] text-[14px] font-[300] mt-6">
+            <p className="text-white lg:text-[18px] text-[18px] font-[300] mt-6">
               Project management software that enables your teams to collaborate, plan, analyze, and manage everyday tasks
             </p>
   
