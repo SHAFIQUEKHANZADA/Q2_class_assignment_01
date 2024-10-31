@@ -12,7 +12,7 @@ const ProjectManagment = () => {
                     width={280}
                     height={100} // Adjust height based on your SVG dimensions
                     className="absolute inset-0 object-cover sm:left-[-90px] left-[-120px] overflow-hidden top-[30px] lg:w-[23vw] -bottom-3 z-0"
-                /> 
+                />
             </div>
             <div className='h-full w-full flex flex-col gap-10 z-30  sm:px-[32px] xl:[220px] px-[20px] sm:py-20 py-14'>
 
@@ -59,7 +59,7 @@ const ProjectManagment = () => {
                 </div>
 
                 {/* 2 div */}
-                <div className="flex sm:flex-row sm:items-center sm:justify-center sm:mt-10 flex-col-reverse">
+                <div className="flex sm:flex-row sm:items-center sm:justify-center sm:mt-10 mt-10 flex-col-reverse">
                     <div className='sm:flex-1'>
                         <div className="relative flex items-center sm:justify-start justify-center sm:mt-0 mt-20 sm:pl-4">
                             {/* Outer Dashed Circle */}

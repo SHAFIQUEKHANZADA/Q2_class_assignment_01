@@ -64,8 +64,8 @@ const Footer = () => {
 
                 <div className="flex md:flex-row flex-col flex-1 sm:gap-[8vw] gap-8 md:mt-3 sm:text-start text-center">
                     {/* 1 */}
-                    <div className="flex flex-col sm:gap-6 gap-4">
-                        <h1 className="lg:text-[18px] text-[16px] font-[700] text-white">Product</h1>
+                    <div className="flex flex-col sm:gap-6 gap-3">
+                        <h1 className="text-[18px]   font-[700] text-white">Product</h1>
                         <ul className="flex flex-col gap-1">
                             <li className="text-[16px] font-[400] text-white hover:text-[#FFE492]">Overview</li>
                             <li className="text-[16px] font-[400] text-white hover:text-[#FFE492]">Pricing</li>
@@ -73,8 +73,8 @@ const Footer = () => {
                         </ul>
                     </div>
                     {/* 2 */}
-                    <div className="flex flex-col sm:gap-6 gap-4">
-                        <h1 className="lg:text-[18px] text-[16px]  font-[700] text-white">Resources</h1>
+                    <div className="flex flex-col sm:gap-6 gap-3">
+                        <h1 className="text-[18px]   font-[700] text-white">Resources</h1>
                         <ul className="flex flex-col gap-1">
                             <li className="text-[16px] font-[400] text-white hover:text-[#FFE492]">Blog</li>
                             <li className="text-[16px] font-[400] text-white hover:text-[#FFE492]">Guides & tutorials</li>
@@ -82,8 +82,8 @@ const Footer = () => {
                         </ul>
                     </div>
                     {/* 3 */}
-                    <div className="flex flex-col sm:gap-6 gap-4">
-                        <h1 className="lg:text-[18px] text-[16px]  font-[700] text-white">Company</h1>
+                    <div className="flex flex-col sm:gap-6 gap-3">
+                        <h1 className="text-[18px]  font-[700] text-white">Company</h1>
                         <ul className="flex flex-col gap-1">
                             <li className="text-[16px] font-[400] text-white hover:text-[#FFE492]">About us</li>
                             <li className="text-[16px] font-[400] text-white hover:text-[#FFE492]">Careers</li>

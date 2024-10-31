@@ -168,12 +168,12 @@ const ChoosePlan = () => {
             >
                 {/* Card 1 */}
                 <div
-                    className={`px-[20px] py-[25px] mb-10 h-fit w-[330px] flex-shrink-0 rounded-lg border border-orange-300 flex flex-col gap-5 group transform transition-transform duration-300 snap-center ${hoveredCard === 1 ? 'bg-[#043873]' : ''}`}
+                    className={`px-[20px] py-[25px] mb-10 h-fit w-[300px] flex-shrink-0 rounded-lg border border-orange-300 flex flex-col gap-5 group transform transition-transform duration-300 snap-center ${hoveredCard === 1 ? 'bg-[#043873]' : ''}`}
                 >
-                    <div className="flex flex-col gap-3">
+                    <div className="flex flex-col gap-1">
                         <p className={`text-[24px] font-[600] ${hoveredCard === 1 ? 'text-white' : 'text-black'}`}>Free</p>
                         <h1 className={`font-[700] text-[36px] ${hoveredCard === 1 ? 'text-[#FFE492]' : 'text-black'}`}>$0</h1>
-                        <p className={`text-[18px] font-[500] ${hoveredCard === 1 ? 'text-white' : 'text-black'}`}>Capture ideas and find them quickly</p>
+                        <p className={`text-[18px] font-[500] ${hoveredCard === 1 ? 'text-white' : 'text-black'}`}>Capture ideas and find quickly</p>
                     </div>
                     <div className="flex flex-col gap-3 lg:w-[90%]">
                         {[
@@ -206,9 +206,9 @@ const ChoosePlan = () => {
 
                 {/* Card 2 (Center Card) */}
                 <div
-                    className={`px-[20px] py-[25px] mb-10 h-fit w-[330px] flex-shrink-0 rounded-lg border border-orange-300 flex flex-col gap-5 group transform transition-transform duration-300 snap-center ${hoveredCard === 2 ? 'bg-[#043873]' : ''}`}
+                    className={`px-[20px] py-[25px] mb-10 h-fit w-[300px] flex-shrink-0 rounded-lg border border-orange-300 flex flex-col gap-5 group transform transition-transform duration-300 snap-center ${hoveredCard === 2 ? 'bg-[#043873]' : ''}`}
                 >
-                    <div className="flex flex-col gap-3">
+                    <div className="flex flex-col gap-1">
                         <p className={`text-[24px] font-[600] ${hoveredCard === 2 ? 'text-white' : 'text-black'}`}>Personal</p>
                         <h1 className={`font-[700] text-[36px] ${hoveredCard === 2 ? 'text-[#FFE492]' : 'text-black'}`}>$11.99</h1>
                         <p className={`text-[18px] font-[500] ${hoveredCard === 2 ? 'text-white' : 'text-black'}`}>Keep home and family on track</p>
@@ -244,12 +244,12 @@ const ChoosePlan = () => {
 
                 {/* Card 3 */}
                 <div
-                    className={`px-[20px] py-[25px] mb-10 h-fit w-[330px] flex-shrink-0 rounded-lg border border-orange-300 flex flex-col gap-5 group transform transition-transform duration-300 snap-center ${hoveredCard === 3 ? 'bg-[#043873]' : ''}`}
+                    className={`px-[20px] py-[25px] mb-10 h-fit w-[300px] flex-shrink-0 rounded-lg border border-orange-300 flex flex-col gap-5 group transform transition-transform duration-300 snap-center ${hoveredCard === 3 ? 'bg-[#043873]' : ''}`}
                 >
-                    <div className="flex flex-col gap-3">
+                    <div className="flex flex-col gap-1">
                         <p className={`text-[24px] font-[600] ${hoveredCard === 3 ? 'text-white' : 'text-black'}`}>Organization</p>
                         <h1 className={`font-[700] text-[36px] ${hoveredCard === 3 ? 'text-[#FFE492]' : 'text-black'}`}>$49.99</h1>
-                        <p className={`text-[18px] font-[500] ${hoveredCard === 3 ? 'text-white' : 'text-black'}`}>Capture ideas and find them quickly</p>
+                        <p className={`text-[18px] font-[500] ${hoveredCard === 3 ? 'text-white' : 'text-black'}`}>Capture ideas and find quickly</p>
                     </div>
                     <div className="flex flex-col gap-3 lg:w-[90%]">
                         {[
