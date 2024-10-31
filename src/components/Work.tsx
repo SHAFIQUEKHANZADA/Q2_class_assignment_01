@@ -27,7 +27,7 @@ const Work = () => {
             </div>
                 <div className='flex flex-col items-center mt-[8vw] sm:w-[75%]  sm:ml-10 mx-auto sm:text-center justify-center'>
                     <div className='flex flex-col sm:text-center'>
-                        <h1 className='text-white sm:text-[4vw] text-[6.8vw] sm:w-[100%] w-[80%] font-bold'>Your work, everywhere <span className="relative inline-block z-10">you are</span></h1>
+                        <h1 className='text-white sm:text-[4vw] text-[6.9vw] sm:w-[100%] w-[80%] font-bold'>Your work, everywhere <span className="relative inline-block z-10">you are</span></h1>
                         <div className="relative">
                             <Image
                                 src="/svg/Element_2.svg"
