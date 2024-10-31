@@ -32,7 +32,7 @@ const Customize = () => {
                                 className="absolute lg:left-[0px] md:left-[80px] sm:left-[10px] left-16  md:w-[24vw]  sm:w-[26vw]  w-[200px] md:-bottom-3 -bottom-0 z-0"
                             />
                         </div>
-                    <p className='lg:text-[18px] text-[14px] font-[300] sm:mt-3 mt-2  md:mt-6'>Customise the app with plugins, custom themes and multiple text editors (Rich Text or Markdown). Or create your own scripts and plugins using the Extension API.
+                    <p className='lg:text-[18px] text-[18px] font-[300] sm:mt-3 mt-2  md:mt-6'>Customise the app with plugins, custom themes and multiple text editors (Rich Text or Markdown). Or create your own scripts and plugins using the Extension API.
                     </p>
                     <div className='flex sm:justify-start justify-center sm:mb-0 mb-20 sm:pt-0 pt-7'>
                         <button className='flex items-center md:mt-12 sm:mt-7 gap-2 bg-[#4F9CF9] sm:text-[16px] text-[14px] text-white px-7 py-4 rounded-md'>Let&apos;s Go <span> <FaArrowRight className='font-[100] text-[12px]' /></span></button>
