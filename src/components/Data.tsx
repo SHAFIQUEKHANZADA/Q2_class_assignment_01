@@ -18,7 +18,7 @@ const Data = () => {
                             className="absolute lg:right-[130px] md:right-[40px] sm:right-[90px] right-10  sm:w-[24vw] w-[150px] sm:-bottom-3 -bottom-0 z-0"
                         />
                     </div>
-                    <p className='lg:text-[18px] text-[14px] font-[300]  mt-6'>The app is open source and your notes are saved to an open format, so you&apos;ll always have access to them. Uses End-To-End Encryption (E2EE) to secure your notes and ensure no-one but yourself can access them.
+                    <p className='lg:text-[18px] text-[18px] font-[300]  mt-6'>The app is open source and your notes are saved to an open format, so you&apos;ll always have access to them. Uses End-To-End Encryption (E2EE) to secure your notes and ensure no-one but yourself can access them.
                     </p>
                     <div className='flex sm:justify-start justify-center sm:mb-0 mb-20'>
                         <button className='flex  items-center mt-12 gap-2 bg-[#4F9CF9] text-[16px] text-white px-7 py-4 rounded-md'>Read more<span> <FaArrowRight className='font-[100] text-[12px]' /></span></button>

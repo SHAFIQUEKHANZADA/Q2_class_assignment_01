@@ -168,7 +168,7 @@ const ChoosePlan = () => {
             >
                 {/* Card 1 */}
                 <div
-                    className={`px-[20px] py-[25px] mx-auto mb-10 h-fit w-[300px] flex-shrink-0 rounded-lg border border-orange-300 flex flex-col gap-5 group transform transition-transform duration-300 snap-center ${hoveredCard === 1 ? 'bg-[#043873]' : ''}`}
+                    className={`px-[20px] py-[25px] mx-auto mb-10 h-fit w-[310px] flex-shrink-0 rounded-xl border border-orange-300 flex flex-col gap-5 group transform transition-transform duration-300 snap-center ${hoveredCard === 1 ? 'bg-[#043873]' : ''}`}
                 >
                     <div className="flex flex-col gap-1">
                         <p className={`text-[24px] font-[600] ${hoveredCard === 1 ? 'text-white' : 'text-black'}`}>Free</p>
@@ -206,7 +206,7 @@ const ChoosePlan = () => {
 
                 {/* Card 2 (Center Card) */}
                 <div
-                    className={`px-[20px] py-[25px] mx-auto mb-10 h-fit w-[300px] flex-shrink-0 rounded-lg border border-orange-300 flex flex-col gap-5 group transform transition-transform duration-300 snap-center ${hoveredCard === 2 ? 'bg-[#043873]' : ''}`}
+                    className={`px-[20px] py-[25px] mx-auto mb-10 h-fit w-[310px] flex-shrink-0 rounded-xl border border-orange-300 flex flex-col gap-5 group transform transition-transform duration-300 snap-center ${hoveredCard === 2 ? 'bg-[#043873]' : ''}`}
                 >
                     <div className="flex flex-col gap-1">
                         <p className={`text-[24px] font-[600] ${hoveredCard === 2 ? 'text-white' : 'text-black'}`}>Personal</p>
@@ -244,7 +244,7 @@ const ChoosePlan = () => {
 
                 {/* Card 3 */}
                 <div
-                    className={`px-[20px] py-[25px] mx-auto mb-10 h-fit w-[300px] flex-shrink-0 rounded-lg border border-orange-300 flex flex-col gap-5 group transform transition-transform duration-300 snap-center ${hoveredCard === 3 ? 'bg-[#043873]' : ''}`}
+                    className={`px-[20px] py-[25px] mx-auto mb-10 h-fit w-[310px] flex-shrink-0 rounded-xl border border-orange-300 flex flex-col gap-5 group transform transition-transform duration-300 snap-center ${hoveredCard === 3 ? 'bg-[#043873]' : ''}`}
                 >
                     <div className="flex flex-col gap-1">
                         <p className={`text-[24px] font-[600] ${hoveredCard === 3 ? 'text-white' : 'text-black'}`}>Organization</p>

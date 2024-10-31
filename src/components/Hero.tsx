@@ -38,7 +38,7 @@ const Hero = () => {
   
           {/* Image Section */}
           <div className="flex-1 flex justify-center sm:justify-end items-center">
-            <div className="lg:w-[48vmax] sm:h-[30vmax] sm:w-[42vw] w-[80vw] h-full lg:mt-10 sm:mb-0 mb-20">
+            <div className="lg:w-[48vmax] sm:h-[30vmax] sm:w-[42vw] w-[90vw] h-full lg:mt-10 sm:mb-0 mb-20">
               <Image
                 src="/images/pro.png"
                 alt="banner-image"
