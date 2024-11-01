@@ -39,7 +39,7 @@ function MultipleItems() {
                 breakpoint: 638,
                 settings: {
                     slidesToShow: 1,
-                    slidesToScroll: 2,
+                    slidesToScroll: 1,
                     initialSlide: 3,
                     dots: true,
                     arrows: false,
